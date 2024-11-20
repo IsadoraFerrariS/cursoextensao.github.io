@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Meu Portifólio  
 site_url: 
 theme:
     name: material
@@ -64,8 +64,7 @@ theme:
           accent: lime
 
 nav:
-    - Introduction:
-        - Welcome: index.md
+    - Quem sou: index.md
 
 markdown_extensions:
     - md_in_html
