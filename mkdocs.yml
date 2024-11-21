@@ -65,6 +65,12 @@ theme:
 
 nav:
     - Quem sou: index.md
+    - Códigos:
+        - Python: python.md
+        - Java: java.md
+    
+    
+
 
 markdown_extensions:
     - md_in_html
