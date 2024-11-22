@@ -64,10 +64,12 @@ theme:
           accent: lime
 
 nav:
-    - Quem sou: index.md
-    - Códigos:
+    - 🙋 Quem sou: index.md
+    - 💻 Códigos:
         - Python: python.md
         - Java: java.md
+    - 📁 Repositório:
+        - Link: gitinho.md
     
     
 
